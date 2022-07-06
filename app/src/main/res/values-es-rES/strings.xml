@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peliculeitor</string>
+    <string name="title_home">Películas</string>
+    <string name="title_dashboard">Series</string>
+    <string name="title_notifications">Favoritos</string>
+    <string name="genre">Género</string>
+    <string name="whatsee">Hola ¿Qué quieres ver?</string>
+    <string name="Recomen">RECOMENDADAS PARA TI</string>
+    <string name="TRated">MEJOR VALORADAS</string>
+    <string name="Favorite">¡Películas y series favoritas!</string>
+    <string name="PeliculasFav">¡PELÍCULAS FAVORITAS!</string>
+    <string name="SeriesFav">¡SERIES FAVORITAS!</string>
+    <string name="Estudio">Estudio</string>
+    <string name="Estreno">Estreno</string>
+    <string name="VerAhora">VER AHORA</string>
+    <string name="Temporadas">Temporadas</string>
+    <string name="Episodios">Episodios</string>
+    <string name="Estado">Estado</string>
+    <string name="SeriesSimilares">Series similares</string>
+    <string name="PeliculasSimilares">Películas similares</string>
+    <string name="PeliculasAparece">Películas en las que aparece</string>
+    <string name="SeriesAparece">Series en las que aparece</string>
+    <string name="Cumple">Cumpleaños</string>
+    <string name="LugarNac">Lugar de nacimiento</string>
+    <string name="Popu">Popularidad</string>
+    <string name="ConocidoX">Conocido por</string>
+    <string name="TambienX">También conocido por</string>
+    <string name="Bio">Biografía</string>
+    <string name="lenguaje">language=es</string>
+</resources>
